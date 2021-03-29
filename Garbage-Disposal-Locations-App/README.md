@@ -1,12 +1,12 @@
-# Garbage-Disposal-Locations-App For CUNY Hackathon of 2021 @Jan23-24
+# Garbage-Disposal-Locations-App 
 ## Team Members
-- Nishanth Prajith
-- Farhene Sultana
-- Justin Siu
-- Maisa Ahmad
+- Sagnik Mitra
+- Manish Kr Barnwal
+- Shubham Tribedi
+- Kushal Chowdhury
 
 ## Summary of Project
-Our project aims to help users find all the garbage disposal locations near them. They would open the app on their phones to see on the maps to find the nearest one.
+This project aims to help users find all the garbage disposal locations near them. They would open the app on their phones to see on the maps to find the nearest one.
 We plan on having every user have an account for this application.
 
 ## Functional Goals
